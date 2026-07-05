@@ -9,7 +9,7 @@
 ![LCD](https://img.shields.io/badge/16x2-LCD-green?style=for-the-badge)
 ![L293D](https://img.shields.io/badge/L293D-H--Bridge-purple?style=for-the-badge)
 
-> 🚀 **Completed Academic Project** | 8086 Microprocessor | Peripheral Interfacing | Assembly Programming | Proteus Simulation
+8086 Microprocessor | Peripheral Interfacing | Assembly Programming | Proteus Simulation
 
 ---
 
@@ -117,7 +117,7 @@ A complete software simulation demonstrating:
 - PWM-based regulation
 - Real-time LCD updates
 
-🎥 **Simulation Video**
+**Simulation Video**
 
 [▶️ Watch Proteus Simulation](demo/CDA_video.zip)
 
