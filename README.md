@@ -101,11 +101,11 @@ Intel-8255-Motor-Speed-Interface
 ```
 #  Project Demonstration
 
-## Proteus Simulation
+##  Proteus Simulation
 
-<p align="center">
-  <img src="docs/Proteus_Simulation.mp4.bz2" width="900">
-</p>
+Click below to watch the simulation.
+
+[▶️ Watch Proteus Simulation](demo/Proteus_Simulation.mp4.7z)
 
 ---
 
