@@ -1,6 +1,5 @@
 # Intel-8255-Motor-Speed-Interface
 Motor Speed Monitoring and Direction Detection using Intel 8255 Programmable Peripheral Interface and LCD Display
-# Intel-8255-Motor-Speed-Interface
 
 ![8086](https://img.shields.io/badge/8086-Microprocessor-blue?style=for-the-badge)
 ![8255](https://img.shields.io/badge/8255-PPI-success?style=for-the-badge)
@@ -8,8 +7,6 @@ Motor Speed Monitoring and Direction Detection using Intel 8255 Programmable Per
 ![Proteus](https://img.shields.io/badge/Proteus-Simulation-orange?style=for-the-badge)
 ![LCD](https://img.shields.io/badge/16x2-LCD-green?style=for-the-badge)
 ![L293D](https://img.shields.io/badge/L293D-H--Bridge-purple?style=for-the-badge)
-
-> 🚀 Completed Academic Project | Microprocessors | Peripheral Interfacing | Embedded Systems
 
 ---
 
@@ -102,6 +99,21 @@ Intel-8255-Motor-Speed-Interface
 ├── report/
 └── README.md
 ```
+#  Project Demonstration
+
+## Proteus Simulation
+
+<p align="center">
+  <img src="docs/Proteus_Simulation.mp4.bz2" width="900">
+</p>
+
+---
+
+## Circuit Diagram
+
+<p align="center">
+  <img src="docs/Circuit_Diagram.jpeg" width="900">
+</p>
 
 ---
 
