@@ -119,7 +119,7 @@ A complete software simulation demonstrating:
 
 🎥 **Simulation Video**
 
-[▶️ Watch Proteus Simulation](demo/Proteus_Simulation.mp4)
+[▶️ Watch Proteus Simulation](demo/CDA_video.zip)
 
 ---
 
