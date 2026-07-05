@@ -112,7 +112,7 @@ Intel-8255-Motor-Speed-Interface
 ## Circuit Diagram
 
 <p align="center">
-  <img src="docs/Circuit_Diagram.jpeg" width="900">
+  <img src="docs/Circuit_Diagram.png" width="900">
 </p>
 
 ---
